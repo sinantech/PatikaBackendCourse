@@ -1,0 +1,3 @@
+Daha önce yaptığım egzersizlerin de olduğu aritmetik işlemler ile
+beraber yükledim. Ödevlerde istenilen program da arithmetic operators kısmında mevcuttur.
+Geri bildirimlerinizi bekliyorum teşekkürler...

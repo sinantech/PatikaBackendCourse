@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week4/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/Week4/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ArithmeticCalc/ArithmeticCalc.iml" filepath="$PROJECT_DIR$/Week1/ArithmeticCalc/ArithmeticCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/Week1/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/BookSorting/BookSorting.iml" filepath="$PROJECT_DIR$/Week5/BookSorting/BookSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ChineseZodiacFinder/ChineseZodiacFinder.iml" filepath="$PROJECT_DIR$/Week1/ChineseZodiacFinder/ChineseZodiacFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/DesignPatternMethod/DesignPatternMethod.iml" filepath="$PROJECT_DIR$/Week2/DesignPatternMethod/DesignPatternMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/ExponentCalculations/ExponentCalculations.iml" filepath="$PROJECT_DIR$/Week2/ExponentCalculations/ExponentCalculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/Week1/FibonacciSeries/FibonacciSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/FixtureGenerator/FixtureGenerator.iml" filepath="$PROJECT_DIR$/Week5/FixtureGenerator/FixtureGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/FlightPrizeCalculator/FlightPrizeCalculator.iml" filepath="$PROJECT_DIR$/Week1/FlightPrizeCalculator/FlightPrizeCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/GroceryCashApp/GroceryCashApp.iml" filepath="$PROJECT_DIR$/Week1/GroceryCashApp/GroceryCashApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/JDBCApp/JDBCApp.iml" filepath="$PROJECT_DIR$/Week6/JDBCApp/JDBCApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/Week1/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/MatrixTranspose/MatrixTranspose.iml" filepath="$PROJECT_DIR$/Week2/MatrixTranspose/MatrixTranspose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/MinAndMaxValues/MinAndMaxValues.iml" filepath="$PROJECT_DIR$/Week1/MinAndMaxValues/MinAndMaxValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/MostMentionedWord/MostMentionedWord.iml" filepath="$PROJECT_DIR$/Week5/MostMentionedWord/MostMentionedWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/MyList/MyList.iml" filepath="$PROJECT_DIR$/Week4/MyList/MyList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/NotepadApp/NotepadApp.iml" filepath="$PROJECT_DIR$/Week6/NotepadApp/NotepadApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PatikaBackendCourse.iml" filepath="$PROJECT_DIR$/.idea/PatikaBackendCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/Week5/PatikaStore/PatikaStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/PerfectNumberFinder/PerfectNumberFinder.iml" filepath="$PROJECT_DIR$/Week1/PerfectNumberFinder/PerfectNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/PrimeNumberMethods/PrimeNumberMethods.iml" filepath="$PROJECT_DIR$/Week2/PrimeNumberMethods/PrimeNumberMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/Week1/PrimeNumbers/PrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/ReadNumberFromFileAndSum/ReadNumberFromFileAndSum.iml" filepath="$PROJECT_DIR$/Week6/ReadNumberFromFileAndSum/ReadNumberFromFileAndSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7/RentACarProject/RentACarProject.iml" filepath="$PROJECT_DIR$/Week7/RentACarProject/RentACarProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/ReverseTriangle/ReverseTriangle.iml" filepath="$PROJECT_DIR$/Week1/ReverseTriangle/ReverseTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/SalaryCalculation/SalaryCalculation.iml" filepath="$PROJECT_DIR$/Week2/SalaryCalculation/SalaryCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7/SwingExample/SwingExample.iml" filepath="$PROJECT_DIR$/Week7/SwingExample/SwingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/Week5/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/Week1/TypeCasting/TypeCasting.iml" />
+    </modules>
+  </component>
+</project>
