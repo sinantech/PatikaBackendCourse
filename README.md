@@ -1,4 +1,3 @@
-![Patika](https://drive.google.com/file/d/1kImkuLjVHYsEVwSb-HlUlp2inuh1tUQZ/view?usp=drive_link)
 
 # PatikaBackendCourse
 
